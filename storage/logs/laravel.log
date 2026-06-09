@@ -1,0 +1,208 @@
+[2026-06-09 08:28:39] production.ERROR: The C:\Users\DELL\Desktop\interviews\hiring-challenge\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\DELL\\Desktop\\interviews\\hiring-challenge\\bootstrap\\cache directory must be present and writable. at C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/Users/DELL/Desktop/interviews/hiring-challenge/artisan(13): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-06-09 08:28:41] production.ERROR: The C:\Users\DELL\Desktop\interviews\hiring-challenge\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\DELL\\Desktop\\interviews\\hiring-challenge\\bootstrap\\cache directory must be present and writable. at C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/Users/DELL/Desktop/interviews/hiring-challenge/artisan(13): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-06-09 08:28:43] production.ERROR: The C:\Users\DELL\Desktop\interviews\hiring-challenge\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\DELL\\Desktop\\interviews\\hiring-challenge\\bootstrap\\cache directory must be present and writable. at C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/Users/DELL/Desktop/interviews/hiring-challenge/artisan(13): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-06-09 08:29:06] production.ERROR: The C:\Users\DELL\Desktop\interviews\hiring-challenge\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\DELL\\Desktop\\interviews\\hiring-challenge\\bootstrap\\cache directory must be present and writable. at C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/Users/DELL/Desktop/interviews/hiring-challenge/artisan(13): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-06-09 08:29:54] local.ERROR: Running Collision 8.x artisan test command in parallel requires at least ParaTest (brianium/paratest) 7.x. {"exception":"[object] (NunoMaduro\\Collision\\Adapters\\Laravel\\Exceptions\\RequirementsException(code: 0): Running Collision 8.x artisan test command in parallel requires at least ParaTest (brianium/paratest) 7.x. at C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:92)
+[stacktrace]
+#0 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): NunoMaduro/Collision/Adapters/Laravel/Commands/TestCommand->handle()
+#1 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::{closure:Illuminate/Container/BoundMethod::call():35}()
+#2 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#3 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#4 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#5 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#6 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#7 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#8 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(NunoMaduro/Collision/Adapters/Laravel/Commands/TestCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#10 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#11 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#12 C:/Users/DELL/Desktop/interviews/hiring-challenge/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#13 C:/Users/DELL/Desktop/interviews/hiring-challenge/artisan(13): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#14 {main}
+"} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Cedar Ridge Plumbing LLC","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Riverside Print & Sign","providers":["enrichment"]} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Redwood Cabinetry","providers":[]} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Coastal Breeze Pool Service","providers":["registry","listing"]} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Magnolia Family Dental","providers":["listing"]} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Pioneer Landscaping Inc","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:26] testing.INFO: contact_finder.lookup {"company_name":"Ironclad Welding Shop","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Cedar Ridge Plumbing LLC","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Bayview Auto Repair","providers":["registry","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Sunbelt Roofing Co","providers":["listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Riverside Print & Sign","providers":["enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Magnolia Family Dental","providers":["listing"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Northgate HVAC Services","providers":["registry"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Pioneer Landscaping Inc","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Harbor Light Electric","providers":["registry","listing"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Summit Pest Control","providers":["enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Greenfield Catering Group","providers":["registry","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Lakeside Auto Glass","providers":["listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Ironclad Welding Shop","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Coastal Breeze Pool Service","providers":["registry","listing"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Redwood Cabinetry","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Anchor Marine Supply","providers":["enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Desert Sky Solar","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Brookside Veterinary Clinic","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Cornerstone Masonry","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Velvet Thread Tailoring","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Frontier Towing & Recovery","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Blue Heron Landscaping","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Ace Mobile Locksmith","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Maple Leaf Bakery","providers":["listing"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Granite Peak Surveying","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Tidewater Plumbing & Heating","providers":["registry","enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Sierra Vista Auto Body","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Hometown Hardware Co","providers":["enrichment"]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Evergreen Tree Care","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Liberty Sign & Awning","providers":[]} 
+[2026-06-09 08:30:27] testing.INFO: contact_finder.lookup {"company_name":"Crescent Moon Cafe","providers":[]} 
+[2026-06-09 08:31:02] testing.INFO: contact_finder.lookup {"company_name":"Cedar Ridge Plumbing LLC","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Riverside Print & Sign","providers":["enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Redwood Cabinetry","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Coastal Breeze Pool Service","providers":["registry","listing"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Magnolia Family Dental","providers":["listing"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Pioneer Landscaping Inc","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Ironclad Welding Shop","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Cedar Ridge Plumbing LLC","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Bayview Auto Repair","providers":["registry","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Sunbelt Roofing Co","providers":["listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Riverside Print & Sign","providers":["enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Magnolia Family Dental","providers":["listing"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Northgate HVAC Services","providers":["registry"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Pioneer Landscaping Inc","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Harbor Light Electric","providers":["registry","listing"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Summit Pest Control","providers":["enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Greenfield Catering Group","providers":["registry","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Lakeside Auto Glass","providers":["listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Ironclad Welding Shop","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Coastal Breeze Pool Service","providers":["registry","listing"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Redwood Cabinetry","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Anchor Marine Supply","providers":["enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Desert Sky Solar","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Brookside Veterinary Clinic","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Cornerstone Masonry","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Velvet Thread Tailoring","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Frontier Towing & Recovery","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Blue Heron Landscaping","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Ace Mobile Locksmith","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Maple Leaf Bakery","providers":["listing"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Granite Peak Surveying","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Tidewater Plumbing & Heating","providers":["registry","enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Sierra Vista Auto Body","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Hometown Hardware Co","providers":["enrichment"]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Evergreen Tree Care","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Liberty Sign & Awning","providers":[]} 
+[2026-06-09 08:31:03] testing.INFO: contact_finder.lookup {"company_name":"Crescent Moon Cafe","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Cedar Ridge Plumbing LLC","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Bayview Auto Repair","providers":["registry","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Sunbelt Roofing Co","providers":["listing","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Riverside Print & Sign","providers":["enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Magnolia Family Dental","providers":["listing"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Northgate HVAC Services","providers":["registry"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Pioneer Landscaping Inc","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Harbor Light Electric","providers":["registry","listing"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Summit Pest Control","providers":["enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Greenfield Catering Group","providers":["registry","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Lakeside Auto Glass","providers":["listing","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Ironclad Welding Shop","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Coastal Breeze Pool Service","providers":["registry","listing"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Redwood Cabinetry","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Anchor Marine Supply","providers":["enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Desert Sky Solar","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Brookside Veterinary Clinic","providers":["registry","listing","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Cornerstone Masonry","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Velvet Thread Tailoring","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Frontier Towing & Recovery","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Blue Heron Landscaping","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Ace Mobile Locksmith","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Maple Leaf Bakery","providers":["listing"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Granite Peak Surveying","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Tidewater Plumbing & Heating","providers":["registry","enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Sierra Vista Auto Body","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Hometown Hardware Co","providers":["enrichment"]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Evergreen Tree Care","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Liberty Sign & Awning","providers":[]} 
+[2026-06-09 08:31:31] local.INFO: contact_finder.lookup {"company_name":"Crescent Moon Cafe","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Cedar Ridge Plumbing LLC","providers":["registry","listing","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Bayview Auto Repair","providers":["registry","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Sunbelt Roofing Co","providers":["listing","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Riverside Print & Sign","providers":["enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Magnolia Family Dental","providers":["listing"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Northgate HVAC Services","providers":["registry"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Pioneer Landscaping Inc","providers":["registry","listing","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Harbor Light Electric","providers":["registry","listing"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Summit Pest Control","providers":["enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Greenfield Catering Group","providers":["registry","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Lakeside Auto Glass","providers":["listing","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Ironclad Welding Shop","providers":["registry","listing","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Coastal Breeze Pool Service","providers":["registry","listing"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Redwood Cabinetry","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Anchor Marine Supply","providers":["enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Desert Sky Solar","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Brookside Veterinary Clinic","providers":["registry","listing","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Cornerstone Masonry","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Velvet Thread Tailoring","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Frontier Towing & Recovery","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Blue Heron Landscaping","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Ace Mobile Locksmith","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Maple Leaf Bakery","providers":["listing"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Granite Peak Surveying","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Tidewater Plumbing & Heating","providers":["registry","enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Sierra Vista Auto Body","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Hometown Hardware Co","providers":["enrichment"]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Evergreen Tree Care","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Liberty Sign & Awning","providers":[]} 
+[2026-06-09 10:32:31] local.INFO: contact_finder.lookup {"company_name":"Crescent Moon Cafe","providers":[]} 

@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContactFinderController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +15,6 @@ use Illuminate\Support\Facades\Route;
 Route::prefix('v1')->group(function () {
     Route::get('/health', fn () => response()->json(['status' => 'ok']));
 
-    // TICKET-001: Add company search endpoint here
+    Route::post('/contact-finder', [ContactFinderController::class, 'find']);
+    Route::post('/contact-finder/process-dataset', [ContactFinderController::class, 'processDataset']);
 });
